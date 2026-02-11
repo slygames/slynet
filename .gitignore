@@ -1,3 +1,6 @@
+#ignore builds
+bin/*
+
 # Godot auto generated files
 *.gen.*
 .godot/
